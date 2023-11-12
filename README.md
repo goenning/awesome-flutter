@@ -333,6 +333,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Usage](https://github.com/dart-lang/usage) [123⭐] - Google Analytics wrapper for command-line, web, and Flutter apps.
 - [Firebase Analytics](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API.
 - [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) [21⭐] - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode).
+- [Aptabase](https://github.com/aptabase/aptabase_flutter) - Open Source, Privacy-First and Simple Analytics for Flutter apps by [goenning](https://github.com/goenning).
 
 ### Internationalization
 
